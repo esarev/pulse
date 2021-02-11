@@ -7,6 +7,7 @@
         img {
             width: 100%;
         }
+        
     }
     &__official {
         font-weight: 500;
@@ -24,11 +25,6 @@
         font-size: 18px;
         color:#FFFFFF;
         text-decoration: none;
-        &:hover {
-            color: black;
-            text-decoration: none;
-        }
-
     }
     &__contacts {
         display: flex;
